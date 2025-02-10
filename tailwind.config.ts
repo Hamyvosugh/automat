@@ -11,6 +11,9 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        spacing: {
+          '1.25': '5px',}
+
       },
     },
   },

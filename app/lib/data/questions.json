@@ -1,0 +1,114 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "topic": "Kraftstoffart",
+        "question": "Ein Elektroauto ist die beste Wahl für die Zukunft.",
+        "totalQuestions": 10,
+        "answers": [
+          {"text": "stimme zu", "points": 3},
+          {"text": "neutral", "points": 2},
+          {"text": "stimme nicht zu", "points": 1}
+        ]
+      },
+      {
+        "id": 2,
+        "topic": "Automatik vs. Schaltgetriebe",
+        "question": "Ein Automatikgetriebe ist komfortabler als ein Schaltgetriebe.",
+        "totalQuestions": 10,
+        "answers": [
+          {"text": "stimme zu", "points": 3},
+          {"text": "neutral", "points": 2},
+          {"text": "stimme nicht zu", "points": 1}
+        ]
+      },
+      {
+        "id": 3,
+        "topic": "Größe des Autos",
+        "question": "Ein SUV ist praktischer als ein Kleinwagen.",
+        "totalQuestions": 10,
+        "answers": [
+          {"text": "stimme zu", "points": 3},
+          {"text": "neutral", "points": 2},
+          {"text": "stimme nicht zu", "points": 1}
+        ]
+      },
+      {
+        "id": 4,
+        "topic": "Preis-Leistungs-Verhältnis",
+        "question": "Ein Neuwagen ist sinnvoller als ein Gebrauchtwagen.",
+        "totalQuestions": 10,
+        "answers": [
+          {"text": "stimme zu", "points": 3},
+          {"text": "neutral", "points": 2},
+          {"text": "stimme nicht zu", "points": 1}
+        ]
+      },
+      {
+        "id": 5,
+        "topic": "Markentreue",
+        "question": "Ich würde immer dieselbe Automarke wählen.",
+        "totalQuestions": 10,
+        "answers": [
+          {"text": "stimme zu", "points": 3},
+          {"text": "neutral", "points": 2},
+          {"text": "stimme nicht zu", "points": 1}
+        ]
+      },
+      {
+        "id": 6,
+        "topic": "Fahrzeugtechnologie",
+        "question": "Autos mit modernen Assistenzsystemen sind sicherer.",
+        "totalQuestions": 10,
+        "answers": [
+          {"text": "stimme zu", "points": 3},
+          {"text": "neutral", "points": 2},
+          {"text": "stimme nicht zu", "points": 1}
+        ]
+      },
+      {
+        "id": 7,
+        "topic": "Konnektivität",
+        "question": "Ein Auto mit integriertem WLAN und Apps ist ein Muss.",
+        "totalQuestions": 10,
+        "answers": [
+          {"text": "stimme zu", "points": 3},
+          {"text": "neutral", "points": 2},
+          {"text": "stimme nicht zu", "points": 1}
+        ]
+      },
+      {
+        "id": 8,
+        "topic": "Umweltfreundlichkeit",
+        "question": "Der CO₂-Ausstoß eines Autos ist für mich entscheidend.",
+        "totalQuestions": 10,
+        "answers": [
+          {"text": "stimme zu", "points": 3},
+          {"text": "neutral", "points": 2},
+          {"text": "stimme nicht zu", "points": 1}
+        ]
+      },
+      {
+        "id": 9,
+        "topic": "Langstreckenfahrten",
+        "question": "Ein Dieselfahrzeug ist besser für lange Strecken geeignet.",
+        "totalQuestions": 10,
+        "answers": [
+          {"text": "stimme zu", "points": 3},
+          {"text": "neutral", "points": 2},
+          {"text": "stimme nicht zu", "points": 1}
+        ]
+      },
+      {
+        "id": 10,
+        "topic": "Autokosten",
+        "question": "Die Unterhaltskosten sind wichtiger als der Kaufpreis.",
+        "totalQuestions": 10,
+        "answers": [
+          {"text": "stimme zu", "points": 3},
+          {"text": "neutral", "points": 2},
+          {"text": "stimme nicht zu", "points": 1}
+        ]
+      }
+    ]
+  }
